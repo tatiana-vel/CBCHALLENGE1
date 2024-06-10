@@ -21,6 +21,17 @@ main {
     margin-left: 20px;
 }
 
+aside {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
 /* a = links */
 a {
     color: #ffffff;
@@ -76,17 +87,7 @@ header div ul li {
     margin-left: 25px;
 }
 
-.benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-}
-
+/* start of aside */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -135,6 +136,7 @@ header div ul li {
     max-width: 150px;
 }
 
+/* main starts here */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -189,6 +191,7 @@ header div ul li {
     font-size: 36px;
 }
 
+/* footer starts here */
 .footer {
     padding: 30px;
     clear: both;
